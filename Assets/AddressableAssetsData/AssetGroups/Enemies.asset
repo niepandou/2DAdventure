@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemies
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 54bacda0f78a1d945b01916ff45bec8c
+  m_SerializeEntries:
+  - m_GUID: 170ea7785ad2ce64bbe32dbc29a17951
+    m_Address: Boar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1942e058a0aaff7499a8f058055cc982
+    m_Address: Snail
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a8fdd347eefba54f967da78ebe878c7
+    m_Address: BossBoar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f89994f9a55ce8441a8fc4dd0b5cbd04
+    m_Address: Bee
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: be4f43d79db4b1046bfa91b2e1a35de3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9cb89f53075dcee4c9cae4dbfaf84d88, type: 2}
+    - {fileID: 11400000, guid: ed5b29fc2bd906b42aafc84ec3cf9e31, type: 2}
